@@ -133,3 +133,9 @@ wandb
 
 # experiment data
 runs
+
+# virtualenv
+deepreach_venv/
+
+#images
+*.png
